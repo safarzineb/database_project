@@ -1,5 +1,5 @@
 
-# Zineb-Farah SAFAR REMALI INM3 - G3_BinomeProjet G
+# Farah SAFAR
 
 # Projet Python/SQLite INF403 
 
